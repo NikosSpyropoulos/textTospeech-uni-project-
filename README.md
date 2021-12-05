@@ -5,6 +5,10 @@
 The purpose of this project is to develop an editor that allows preparing text documents and
 transforming them to audio using external text to speech libraries. ( In the files there is a demoVideo that includes all the functionalities of the app)
 
+
+https://user-images.githubusercontent.com/25778156/144764719-223a5925-e454-4e9d-9112-5cf30900b364.mp4
+
+
 ### In the project are used the following architecture and patterns 
 
 # MVC Architecture
